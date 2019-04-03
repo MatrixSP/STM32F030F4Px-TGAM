@@ -1,0 +1,15 @@
+"G:\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"G:\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"E:\Repos\TestCube\EWARM\TestCube\Exe\TestCube.out" 
+
+--plugin "G:\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "G:\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\ST\STM32F0xx.dmac" 
+
+--flash_loader "G:\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\ST\FlashSTM32F03xx4.board" 
+
+
+
+
